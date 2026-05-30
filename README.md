@@ -71,7 +71,7 @@
 - MongoDB cross-collection duplicate detection with audit trail
 - OTP verification, wallet billing, prepaid/postpaid ledger
 - **Tech:** Node.js, MongoDB, RabbitMQ, Express.js
-- 🔗 [www.consentSystem.com](https://www.consentsystem.com](https://testing.blockcube.co/tm-stagingVMIPL/dlt-api-entity)
+- 🔗 https://www.consentsystem.com](https://testing.blockcube.co/tm-stagingVMIPL/dlt-api-entity)
 
 ---
 
