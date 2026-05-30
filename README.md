@@ -75,20 +75,6 @@
 
 ---
 
-### 📈 Coding Activity
-
-<p align="center">
-  <a href="https://leetcode.com/u/Vivek_chauhan5769/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Vivek_chauhan5769&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Vivek_chauhan5769&theme=dark" />
-</p>
-
----
-
 ### 🏆 Achievements
 
 - 🥇 Solved **1100+ LeetCode problems** — Top 5% globally
